@@ -1,0 +1,3 @@
+com.example.manzanaverde.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

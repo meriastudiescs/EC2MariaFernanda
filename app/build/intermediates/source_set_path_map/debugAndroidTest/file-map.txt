@@ -1,0 +1,7 @@
+com.example.manzanaverde.test.app-core-1.5.0-0 C:\Users\maria\.gradle\caches\transforms-3\b115597ce3dbff49e1dc5289fce392a3\transformed\core-1.5.0\res
+com.example.manzanaverde.test.app-annotation-experimental-1.3.0-1 C:\Users\maria\.gradle\caches\transforms-3\f04190fac85d926c2fa598832a3ec059\transformed\annotation-experimental-1.3.0\res
+com.example.manzanaverde.test.app-androidTest-2 C:\Users\maria\AndroidStudioProjects\ManzanaVerde\app\build\generated\res\resValues\androidTest\debug
+com.example.manzanaverde.test.app-androidTest-3 C:\Users\maria\AndroidStudioProjects\ManzanaVerde\app\build\generated\res\rs\androidTest\debug
+com.example.manzanaverde.test.app-mergeDebugAndroidTestResources-4 C:\Users\maria\AndroidStudioProjects\ManzanaVerde\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.manzanaverde.test.app-mergeDebugAndroidTestResources-5 C:\Users\maria\AndroidStudioProjects\ManzanaVerde\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.manzanaverde.test.app-merged_res-6 C:\Users\maria\AndroidStudioProjects\ManzanaVerde\app\build\intermediates\merged_res\debugAndroidTest
